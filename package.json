@@ -31,7 +31,7 @@
     "test:int:watch": "npm run test:int -s & ./node_modules/.bin/chokidar 'lib/**/*.js' 'test/**/*.int.js' --polling -c \"./node_modules/.bin/blue-tape test/**/**.int.js | node_modules/.bin/tap-spec\""
   },
   "dependencies": {
-    "aws4": "^1.6.0",
+    "aws4": "^1.11.0",
     "request-micro": "^1.2.2"
   },
   "devDependencies": {
