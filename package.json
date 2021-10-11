@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "aws4": "^1.6.0",
-    "request-micro": "^1.2.2"
+    "request-micro": "^1.5.1"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
